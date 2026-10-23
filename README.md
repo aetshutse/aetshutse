@@ -12,7 +12,7 @@ Building software and learning new technologies to solve practical problems. Cur
 [![HTML](https://skillicons.dev/icons?i=html "HTML")](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css "CSS")](https://developer.mozilla.org/docs/Web/CSS)
 
-**Frameworks**
+**Frameworks & Libraries**
 <br>
 [![React](https://skillicons.dev/icons?i=react "React")](https://react.dev)
 
