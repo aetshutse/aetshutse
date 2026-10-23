@@ -7,6 +7,7 @@ Building software and learning new technologies to solve practical problems. Cur
 **Languages**
 <br>
 [![Java](https://skillicons.dev/icons?i=java "Java")](https://www.java.com)
+[![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org)
 [![HTML](https://skillicons.dev/icons?i=html "HTML")](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css "CSS")](https://developer.mozilla.org/docs/Web/CSS)
