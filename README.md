@@ -1,15 +1,21 @@
-# Hello there! 👋
+# Computer Engineering Student
 
-I am a Computer Engineering student with a strong interest in software development and related fields. I am focused on building robust applications and continuously learning new technologies to solve practical problems. 
+Building software and learning new technologies to solve practical problems. Currently exploring AI integration and enterprise application development.
 
-### 💻 Tech Stack
-* **Languages:** ☕ Java, 📘 TypeScript, 🗄️ SQL, 🌐 HTML, 🎨 CSS
-* **Frameworks & Libraries:** ⚛️ React
-* **Databases:** 🐬 MySQL
+## Tech Stack
 
-### 🚀 What I'm Doing
-* Actively building projects to bridge theoretical engineering concepts with practical software architecture.
-* Exploring AI integration and enterprise-level application development.
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,ts,html,css" alt="Java, TypeScript, HTML, CSS" />
 
-### 📫 How to reach me
-* **Email:** [aetshutse@gmai.com](mailto:your.email@example.com)
+**Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+
+## Contact
+
+[aetshutse@gmail.com](mailto:your.email@example.com)
