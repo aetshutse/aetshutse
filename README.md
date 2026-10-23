@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**aetshutse/aetshutse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student with a strong interest in software development and related fields. I am focused on building robust applications and continuously learning new technologies to solve practical problems. 
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+* **Languages:** ☕ Java, 📘 TypeScript, 🗄️ SQL, 🌐 HTML, 🎨 CSS
+* **Frameworks & Libraries:** ⚛️ React
+* **Databases:** 🐬 MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing
+* Actively building projects to bridge theoretical engineering concepts with practical software architecture.
+* Exploring AI integration and enterprise-level application development.
+
+### 📫 How to reach me
+* **Email:** [aetshutse@gmai.com](mailto:your.email@example.com)
