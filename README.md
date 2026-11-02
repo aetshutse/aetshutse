@@ -5,21 +5,68 @@ Building software and learning new technologies to solve practical problems. Cur
 ## Tech Stack
 
 **Languages**
-<br>
-[![Java](https://skillicons.dev/icons?i=java "Java")](https://www.java.com)
-[![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org)
-[![HTML](https://skillicons.dev/icons?i=html "HTML")](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css "CSS")](https://developer.mozilla.org/docs/Web/CSS)
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.java.com">
+        <img src="https://skillicons.dev/icons?i=java" width="44" height="44" alt="Java" /><br />
+        <sub><b>Java</b></sub>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" /><br />
+        <sub><b>JavaScript</b></sub>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.typescriptlang.org">
+        <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" /><br />
+        <sub><b>TypeScript</b></sub>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" /><br />
+        <sub><b>HTML</b></sub>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" /><br />
+        <sub><b>CSS</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Frameworks & Libraries**
-<br>
-[![React](https://skillicons.dev/icons?i=react "React")](https://react.dev)
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://react.dev">
+        <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" /><br />
+        <sub><b>React</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Databases**
-<br>
-[![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://www.mysql.com)
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.mysql.com">
+        <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br />
+        <sub><b>MySQL</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
-[aetshutse@gmail.com](mailto:your.email@example.com)
+[aetshutse@gmail.com](mailto:aetshutse@gmail.com)
