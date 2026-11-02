@@ -9,34 +9,24 @@ Building software and learning new technologies to solve practical problems. Cur
 <table>
   <tr>
     <td align="center" width="80">
-      <a href="https://www.java.com">
-        <img src="https://skillicons.dev/icons?i=java" width="44" height="44" alt="Java" /><br />
-        <sub><b>Java</b></sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=java" width="44" height="44" alt="Java" /><br />
+      <sub><b>Java</b></sub>
     </td>
     <td align="center" width="80">
-      <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-        <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" /><br />
-        <sub><b>JavaScript</b></sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" /><br />
+      <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="80">
-      <a href="https://www.typescriptlang.org">
-        <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" /><br />
-        <sub><b>TypeScript</b></sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" /><br />
+      <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="80">
-      <a href="https://developer.mozilla.org/docs/Web/HTML">
-        <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" /><br />
-        <sub><b>HTML</b></sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" /><br />
+      <sub><b>HTML</b></sub>
     </td>
     <td align="center" width="80">
-      <a href="https://developer.mozilla.org/docs/Web/CSS">
-        <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" /><br />
-        <sub><b>CSS</b></sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" /><br />
+      <sub><b>CSS</b></sub>
     </td>
   </tr>
 </table>
@@ -46,10 +36,8 @@ Building software and learning new technologies to solve practical problems. Cur
 <table>
   <tr>
     <td align="center" width="80">
-      <a href="https://react.dev">
-        <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" /><br />
-        <sub><b>React</b></sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" /><br />
+      <sub><b>React</b></sub>
     </td>
   </tr>
 </table>
@@ -59,10 +47,8 @@ Building software and learning new technologies to solve practical problems. Cur
 <table>
   <tr>
     <td align="center" width="80">
-      <a href="https://www.mysql.com">
-        <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br />
-        <sub><b>MySQL</b></sub>
-      </a>
+      <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br />
+      <sub><b>MySQL</b></sub>
     </td>
   </tr>
 </table>
